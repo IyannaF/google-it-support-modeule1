@@ -28,4 +28,4 @@ It demonstrates foundational IT knowledge, including hardware, operating systems
 - Problem-Solving and troubleshooting
 
  ## Screenshots
- Screenshots demonstarting excercises and simulations are in the `screenshots/` folder 
+ Screenshots demonstarting excercises and simulations are in the `module1_excercises.md` folder 
